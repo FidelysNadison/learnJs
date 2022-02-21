@@ -1,1 +1,1 @@
-# learnJs
+# algo-js
